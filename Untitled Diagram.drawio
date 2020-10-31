@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-31T05:17:27.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="L8hL2YoUolnKrHJ5sYo5" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-31T05:19:02.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="yRQ9lU4bEBtUH9Vu8bbH" version="13.8.8" type="github">
   <diagram id="o7BJaHzfwVbvE81LBurC" name="Page-1">
     <mxGraphModel dx="1479" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
         <mxCell id="SHjtx8wU5vL2sY_37cBv-118" value="司机现金结清&lt;br&gt;（状态为12）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SHjtx8wU5vL2sY_37cBv-67">
           <mxGeometry x="2160" y="66.25" width="80" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="SHjtx8wU5vL2sY_37cBv-121" value="运单结束&lt;br&gt;（状态为2）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="SHjtx8wU5vL2sY_37cBv-67">
+        <mxCell id="SHjtx8wU5vL2sY_37cBv-121" value="结束&lt;br&gt;（状态为2）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="SHjtx8wU5vL2sY_37cBv-67">
           <mxGeometry x="2440" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SHjtx8wU5vL2sY_37cBv-132" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SHjtx8wU5vL2sY_37cBv-67" source="SHjtx8wU5vL2sY_37cBv-129" target="SHjtx8wU5vL2sY_37cBv-118">
